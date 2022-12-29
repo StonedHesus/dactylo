@@ -170,6 +170,7 @@ public final class GameScene extends Scene implements Settings {
 
             else
             {
+                this.timeOptions.setTranslateY(-275.5);
                 parent.getChildren().add(this.timeOptions);
 
                 Timeline timeline = new Timeline();
@@ -204,6 +205,7 @@ public final class GameScene extends Scene implements Settings {
 
             else
             {
+                this.wordsOptions.setTranslateY(-275.5);
                 parent.getChildren().add(this.wordsOptions);
 
                 Timeline timeline = new Timeline();
