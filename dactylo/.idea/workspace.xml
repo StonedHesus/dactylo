@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d5b582-e0f1-49de-a00f-7cb71c77d48c" name="Changes" comment="" />
+    <list default="true" id="e0d5b582-e0f1-49de-a00f-7cb71c77d48c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/main/java/upc/coop/dactylo/scenes/game/GameScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/upc/coop/dactylo/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/upc/coop/dactylo/Runner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="upc.coop.dactylo.HelloApplication" />
@@ -67,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672072438062</updated>
       <workItem from="1672072440327" duration="355000" />
+      <workItem from="1672292079852" duration="10000" />
     </task>
     <servers />
   </component>
