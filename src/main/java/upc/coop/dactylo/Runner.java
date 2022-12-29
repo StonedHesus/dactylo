@@ -4,7 +4,7 @@ package upc.coop.dactylo;
 import javafx.application.Application;
 import javafx.stage.Stage;
 // Import from custom libraries, classes and interfaces.
-import upc.coop.dactylo.scenes.welcome.WelcomeScene;
+import upc.coop.dactylo.scenes.game.GameScene;
 import upc.coop.dactylo.settings.Settings;
 
 /**
@@ -47,7 +47,7 @@ public class Runner extends Application implements Settings {
     @Override
     public void start(Stage primaryStage) {
         // To be replaced with a state machine.
-        var scene = new WelcomeScene();
+        var scene = new GameScene();
         primaryStage.setWidth(DEFAULT_WINDOW_WIDTH);
         primaryStage.setHeight(DEFAULT_WINDOW_HEIGHT);
         primaryStage.setResizable(false);
